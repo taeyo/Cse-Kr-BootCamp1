@@ -3,6 +3,6 @@
 <% 
 	string empNo = "674040";
 %>
-<%= {empNo} %>
+<%= empNo %>
 </body>
 </html>
