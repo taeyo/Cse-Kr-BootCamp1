@@ -1,8 +1,6 @@
-<html>
-<body>
+<%@ Page Language="C#"  %>
 <% 
 	string empNo = "674040";
 %>
-<%= empNo %>
-</body>
-</html>
+
+<h1><%= empNo %></h1>
